@@ -6,7 +6,7 @@
     "message": "Snappier Pages"
   },
   "description": {
-    "message": "Make pages a bit quicker by reducing animations"
+    "message": "Make pages a bit quicker by reducing animations."
   },
   "browser_action": {
     "message": "Click me and nothing happens."

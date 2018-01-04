@@ -1,6 +1,6 @@
 /*
  * Generic catch all - Actually works pretty well.
  */
-body * {
-  transition-duration: 0.01ms!important;
+body *:not(svg):not([style*="transform"]) {
+  transition-duration: 0.00001ms!important;
 }
