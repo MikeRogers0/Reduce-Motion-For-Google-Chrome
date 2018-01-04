@@ -1,6 +1,6 @@
 {
   "name": "snappier-pages",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "description": "Adjust common CSS to have shorter transition times",
   "scripts": {
