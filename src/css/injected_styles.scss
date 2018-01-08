@@ -2,12 +2,12 @@
  * Generic catch all - Actually works pretty well.
  */
 body *:not(svg):not([style*="transform"]) {
-  transition-duration: 1ms!important;
+  transition: none!important;
 }
 
 /*
  * Targeting bootstrap fades specifically. 
  */
 .modal.fade .modal-dialog {
-  transition: color 1ms linear!important;
+  /*transition: color 1ms linear!important;*/
 }
