@@ -6,7 +6,7 @@
     "message": "Reduce Motion"
   },
   "description": {
-    "message": "Make pages a bit quicker by reducing animations and motions on a webpage."
+    "message": "Reduce the motion of a webpage by disabling common animations."
   },
   "browser_action": {
     "message": "Click me and nothing happens."
