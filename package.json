@@ -1,6 +1,6 @@
 {
-  "name": "snappier-pages",
-  "version": "0.0.4",
+  "name": "reduced-motion",
+  "version": "1.0.0",
   "private": true,
   "description": "Adjust common CSS to have shorter transition times",
   "scripts": {
