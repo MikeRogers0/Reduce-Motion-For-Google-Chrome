@@ -5,12 +5,17 @@
   "description": "Adjust common CSS to have shorter transition times",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build-js-shared-i18n": "browserify -t rollupify src/shared/i18n.js > lib/shared/i18n.js",
     "build-scss": "sass --update src/css:lib/css",
-    "build": "npm run build-scss",
+    "build-html": "cp src/[[:alnum:]]*.html lib/",
+    "build-js": "npm run build-js-shared-i18n",
+    "build": "npm run build-scss && npm run build-html && npm run build-js",
     "watch": "watch 'npm run build' src/",
     "release": "bash release.sh"
   },
   "dependencies": {
+    "browserify": "^15.1.0",
+    "rollupify": "^0.4.0",
     "sass": "^0.5.0"
   },
   "devDependencies": {

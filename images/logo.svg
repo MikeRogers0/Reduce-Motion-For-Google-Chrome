@@ -1,6 +1,7 @@
-<svg width="128" height="128" version="1" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none">
-    <path d="M85 71l14-21-3-2-19 16a11 11 0 0 0-9 18 11 11 0 0 0 17-11zM64 14V0h21v14H64zm47 11l8-7 7 7-7 7-8-7zm17 50a53 53 0 0 1-91 37h17c6 3 13 5 21 5a43 43 0 0 0 0-85c-8 0-15 2-21 5H37a53 53 0 0 1 91 37z" fill="#2B93D8"/>
-    <path fill="#50E3C2" d="M11 48h42v11H11zM0 69h43v11H0zm16 22h37v10H16z"/>
+<svg width="136" height="136" version="1" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="65" cy="65" r="65" transform="translate(3 3)" stroke="#4A90E2" stroke-width="6"/>
+    <path fill="#50E3C2" d="M37 25h15v85H37z"/>
+    <path fill="#67A3B1" d="M68 82h45v15H68z"/>
   </g>
 </svg>

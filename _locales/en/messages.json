@@ -1,14 +1,18 @@
 {
   "name": {
-    "message": "Snappier Pages"
+    "message": "Reduce Motion"
   },
   "short_name": {
-    "message": "Snappier Pages"
+    "message": "Reduce Motion"
   },
   "description": {
-    "message": "Make pages a bit quicker by reducing animations."
+    "message": "Make pages a bit quicker by reducing animations and motions on a webpage."
   },
   "browser_action": {
     "message": "Click me and nothing happens."
+  },
+
+  "@popup_body_html": {
+    "message": "<p>Thank you for installing Reduce Motion for Google Chrome.</p><p>It's currently running and it aims to reduce the amount of motion on a webpage by disabling common animations.</p><p>If you like it, please <a href='https://chrome.google.com/webstore/detail/snappier-pages/epdnghcaekjgkbenhifpncneffelfkkf' target='_blank' tabindex='-1'>leave me a review</a> on the Chrome Store.</p>"
   }
 }
