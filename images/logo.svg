@@ -1,7 +1,1 @@
-<svg width="136" height="136" version="1" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="evenodd">
-    <circle cx="65" cy="65" r="65" transform="translate(3 3)" stroke="#4A90E2" stroke-width="6"/>
-    <path fill="#50E3C2" d="M37 25h15v85H37z"/>
-    <path fill="#67A3B1" d="M68 82h45v15H68z"/>
-  </g>
-</svg>
+<svg width="138" height="138" version="1" xmlns="http://www.w3.org/2000/svg"><g transform="translate(4 4)" fill="none" fill-rule="evenodd"><circle stroke="#4A90E2" stroke-width="8" cx="65" cy="65" r="65"/><path fill="#50E3C2" fill-rule="nonzero" d="M73 14l14 14-57 57-14-14z"/><path fill="#67A3B1" fill-rule="nonzero" d="M64 61l28 28-13 13-28-28z"/></g></svg>
