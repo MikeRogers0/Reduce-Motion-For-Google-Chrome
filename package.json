@@ -1,6 +1,6 @@
 {
   "name": "reduced-motion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Adjust common CSS to have shorter transition times",
   "scripts": {
